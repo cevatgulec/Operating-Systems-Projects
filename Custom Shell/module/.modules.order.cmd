@@ -1,0 +1,1 @@
+cmd_/home/thrawn/Desktop/project/project-1-shell-tyranus/module/modules.order := {   echo /home/thrawn/Desktop/project/project-1-shell-tyranus/module/mymodule.o; :; } > /home/thrawn/Desktop/project/project-1-shell-tyranus/module/modules.order

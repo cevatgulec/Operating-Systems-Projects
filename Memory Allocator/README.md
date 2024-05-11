@@ -1,0 +1,1 @@
+My code works for until batching included batchin I also tried to implement unmap and alterenative design but it wont pass from test cases. Also my code works correctly without the ku prefix. I can get 8.5 out of 10 from test cases I also tried to implement other optimizations as I mentioned but they couldnt pass from test cases.

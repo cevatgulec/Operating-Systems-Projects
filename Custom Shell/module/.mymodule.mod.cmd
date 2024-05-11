@@ -1,0 +1,1 @@
+cmd_/home/thrawn/Desktop/project/project-1-shell-tyranus/module/mymodule.mod := printf '%s\n'   mymodule.o | awk '!x[$$0]++ { print("/home/thrawn/Desktop/project/project-1-shell-tyranus/module/"$$0) }' > /home/thrawn/Desktop/project/project-1-shell-tyranus/module/mymodule.mod

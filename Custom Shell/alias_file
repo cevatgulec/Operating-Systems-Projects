@@ -1,0 +1,6 @@
+short,ls -lha
+com,pwd
+short,ls
+ss,pwd
+ss,ls -lha
+oo,ls

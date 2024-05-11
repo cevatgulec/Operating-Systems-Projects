@@ -1,0 +1,1 @@
+cmd_/home/thrawn/Desktop/project/project-1-shell-tyranus/module/Module.symvers :=  scripts/mod/modpost -m -a     -o /home/thrawn/Desktop/project/project-1-shell-tyranus/module/Module.symvers -T /home/thrawn/Desktop/project/project-1-shell-tyranus/module/modules.order -i Module.symvers -e 

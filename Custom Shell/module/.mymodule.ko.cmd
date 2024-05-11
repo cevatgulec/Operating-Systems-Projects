@@ -1,0 +1,1 @@
+cmd_/home/thrawn/Desktop/project/project-1-shell-tyranus/module/mymodule.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/thrawn/Desktop/project/project-1-shell-tyranus/module/mymodule.ko /home/thrawn/Desktop/project/project-1-shell-tyranus/module/mymodule.o /home/thrawn/Desktop/project/project-1-shell-tyranus/module/mymodule.mod.o;  true
